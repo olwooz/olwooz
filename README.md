@@ -11,6 +11,6 @@
 - 🌱 Learning frontend web development
 
 ### History
-- 💻 Software Maestro 13th (2022.04~2022.11)
+- 💻 Software Maestro 13th (2022.04~2022.12)
 - 🎓 The University of Hong Kong - Bachelor of Business Administration (Information System) (2016.09~2022.06)
-- 💼 Moohan Information Co. Ltd Junior Full-stack Developer Intern (2021.06~2022.01)
+- 💼 Moohan Information Co. Ltd Full-stack Developer Intern (2021.06~2022.01)
