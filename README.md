@@ -14,3 +14,9 @@
 - 💻 Software Maestro 13th (2022.04~2022.12)
 - 🎓 The University of Hong Kong - Bachelor of Business Administration (Information System) (2016.09~2022.06)
 - 💼 Moohan Information Co. Ltd Full-stack Developer Intern (2021.06~2022.01)
+
+<div align='center'>
+  
+![dyi919's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyi919&show_icons=true&theme=react)
+  
+</div>
