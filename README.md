@@ -24,7 +24,7 @@
 
 <div align='center'>
   
-![dyi919's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyi919&show_icons=true&theme=react)
+![olwooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=olwooz&show_icons=true&theme=react)
   
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
