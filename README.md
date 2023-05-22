@@ -19,7 +19,7 @@
 - 🌱 Learning frontend web development
 
 ### History
-- 🌊 Wavve - Frontend Developer Intern (2022.03~2022.05)
+- 🌊 Wavve - Frontend Developer (2023.03~)
 - 💻 Software Maestro 13th (2022.04~2022.12)
 - 💼 Moohan Information Co. Ltd - Full-stack Developer Intern (2021.06~2022.01)
 - 🎓 The University of Hong Kong - Bachelor of Business Administration (Information System) (2016.09~2022.06)
