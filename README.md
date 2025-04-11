@@ -6,19 +6,6 @@
   
 </div>
 
-### About me
-
-<img align='right' height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dyi919">
-
-- 🌏 Born in South Korea, studied in China and Hong Kong
-- 🌱 Learning frontend web development
-
-### History
-- 🍀 Naver - Frontend Developer (2023.07~)
-- 🌊 Wavve - Frontend Developer (2023.03~2023.07)
-- 💻 Software Maestro 13th (2022.04~2022.12)
-- 🎓 The University of Hong Kong - Bachelor of Business Administration (Information System) (2016.09~2022.06)
-
 <div align='center'>
   
 ![olwooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=olwooz&show_icons=true&theme=react)
